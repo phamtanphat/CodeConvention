@@ -1,0 +1,3 @@
+1 - Quy tắt đặt tên biến
+  + CamelCase: categoryName
+  + PascalCase: PascalCase
