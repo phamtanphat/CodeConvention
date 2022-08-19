@@ -1,3 +1,6 @@
 1 - Quy tắt đặt tên biến
   + CamelCase: categoryName
   + PascalCase: PascalCase
+2 - Không nên dùng magic number, variable
+3 - Tránh việc lặp lại quá nhiều lần các hàm có thể dùng chung
+4 - Nên tìm hiểu tài liệu nếu gặp vấn đề chưa giải quyết được hoặc confirm để hiểu
